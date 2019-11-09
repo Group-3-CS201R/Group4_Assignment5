@@ -1,0 +1,24 @@
+Property Lydia_Ave Pink 20 75 20 31 42 53 64 75 60 80
+Property Tracy_Ave Orange 40 145 40 73 84 93 104 115 120 200
+Utility Electric 330 400
+Property Forest_Ave Red 50 250 50 80 120 145 160 172 200 270
+Action CHANCE
+Property Virginia_Ave Green 25 130 25 35 45 55 66 78 100 140
+Property Wayne_Ave Yellow 110 330 110 140 150 185 210 222 300 370
+Action FREE_PARKING
+Property Euclid_Ave Purple 50 179 50 66 77 88 99 111 150 190
+Railroad Pennsylvania 520 210 230 240 250 600
+Property Michigan_Ave Blue 30 134 30 45 55 67 73 83 111 144
+Action JAIL
+Property Garfield_Ave Navy 150 350 150 177 185 193 210 235 300 375
+Action CHANCE
+Property Park_Ave Red 45 176 45 60 71 89 99 109 143 187
+Property Wayne_Ave Yellow 110 330 110 140 150 185 210 222 300 370
+Utility Water 250 300
+Property Lydia_Ave Pink 43 131 43 54 67 77 83 96 122 144
+Railroad Flying 260 80 90 100 110 380
+Property Wabash_Ave Navy 72 188 72 85 93 104 111 122 176 190
+Property Prospect_Ave Orange 39 144 39 48 57 66 75 84 138 156
+Property Agnes_Ave Blue 45 167 45 56 67 78 89 94 131 199
+Property College_Ave Green 110 369 110 132 144 153 161 175 356 397
+Property Indiana_Ave Purple 141 300 141 155 166 175 188 199 282 333
